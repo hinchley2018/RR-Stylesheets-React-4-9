@@ -3,3 +3,7 @@
 }
 
 
+/* create a header class that changes the color to something */
+.header{
+  color: purple
+}
